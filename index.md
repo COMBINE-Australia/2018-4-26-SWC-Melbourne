@@ -46,13 +46,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<a href="https://combine.org.au">
-<img src="screen_banner.png", alt="COMBINE">
-</a>
-<p> With support from: </p>
-<a href="https://www.wehi.edu.au">
-<img src="WEHI_logo.png", alt="WEHI">
-</a>
+![COMBINE](screen_banner.png)
+
+![WEHI](WEHI_logo.png)
 
 <h2 id="general">General Information</h2>
 
