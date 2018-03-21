@@ -46,10 +46,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
+<a href="https://combine.org.au">
+<img src="screen_banner.png", alt="COMBINE">
+</a>
+<p> With support from: </p>
+<a href="https://www.wehi.edu.au">
+<img src="WEHI_logo.png", alt="WEHI">
+</a>
 
 <h2 id="general">General Information</h2>
 
