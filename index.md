@@ -512,13 +512,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
-
+<!--
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
            Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
   <h3>Python</h3>
-
+<!--
   <p>
     <a href="http://python.org">Python</a> is a popular language for
     research computing, and great for general-purpose programming as
@@ -543,7 +543,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       (some older browsers, including Internet Explorer version 9
       and below, are not).
     </p>
-
+<!--
   <div class="row">
     <div class="col-md-4">
       <h4 id="python-windows">Windows</h4>
