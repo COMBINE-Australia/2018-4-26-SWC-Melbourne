@@ -11,7 +11,7 @@ humantime: "9:30am - 5:00pm"    # human-readable times for the workshop (e.g., "
 startdate: 2018-04-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-05-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Luke Zappia, Andrew Lonsdale, Harriet Dashnow"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Holly Whitfield, Lucy Liu, Jocelyn Penington, Alexis Lucattini, Cassie Litchfield"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Holly Whitfield, Lucy Liu, Jocelyn Penington, Alexis Lucattini, Cassie Litchfield, David Ma"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["combine@combine.org.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: ["https://hackmd.io/9RpceMkDQ22Oy9w7n0sUTQ?both"] # ["http://pad.software-carpentry.org/2018-4-26-SWC-Melbourne"]             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
